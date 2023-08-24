@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using PropertyChanged;
+using System.ComponentModel;
 
-namespace Habit_Binder.ViewModels
-{
-    internal class BaseViewModel
+namespace Habit_Binder
+{   
+    [AddINotifyPropertyChangedInterface]
+    internal class BaseViewModel : INotifyPropertyChanged
     {
+        public event PropertyChangedEventHandler PropertyChanged = (sender, e) => { };
     }
 }
