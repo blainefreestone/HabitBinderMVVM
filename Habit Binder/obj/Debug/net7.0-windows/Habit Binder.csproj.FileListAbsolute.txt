@@ -1,0 +1,23 @@
+A:\Programming\HabitBinderMVVM\Habit Binder\obj\Debug\net7.0-windows\Habit Binder.csproj.AssemblyReference.cache
+A:\Programming\HabitBinderMVVM\Habit Binder\obj\Debug\net7.0-windows\App.g.cs
+A:\Programming\HabitBinderMVVM\Habit Binder\obj\Debug\net7.0-windows\Habit Binder_MarkupCompile.cache
+A:\Programming\HabitBinderMVVM\Habit Binder\bin\Debug\net7.0-windows\Habit Binder.exe
+A:\Programming\HabitBinderMVVM\Habit Binder\bin\Debug\net7.0-windows\Habit Binder.deps.json
+A:\Programming\HabitBinderMVVM\Habit Binder\bin\Debug\net7.0-windows\Habit Binder.runtimeconfig.json
+A:\Programming\HabitBinderMVVM\Habit Binder\bin\Debug\net7.0-windows\Habit Binder.dll
+A:\Programming\HabitBinderMVVM\Habit Binder\bin\Debug\net7.0-windows\Habit Binder.pdb
+A:\Programming\HabitBinderMVVM\Habit Binder\obj\Debug\net7.0-windows\MainWindow.g.cs
+A:\Programming\HabitBinderMVVM\Habit Binder\obj\Debug\net7.0-windows\Habit Binder_MarkupCompile.lref
+A:\Programming\HabitBinderMVVM\Habit Binder\obj\Debug\net7.0-windows\MainWindow.baml
+A:\Programming\HabitBinderMVVM\Habit Binder\obj\Debug\net7.0-windows\Habit Binder.g.resources
+A:\Programming\HabitBinderMVVM\Habit Binder\obj\Debug\net7.0-windows\Habit Binder.GeneratedMSBuildEditorConfig.editorconfig
+A:\Programming\HabitBinderMVVM\Habit Binder\obj\Debug\net7.0-windows\Habit Binder.AssemblyInfoInputs.cache
+A:\Programming\HabitBinderMVVM\Habit Binder\obj\Debug\net7.0-windows\Habit Binder.AssemblyInfo.cs
+A:\Programming\HabitBinderMVVM\Habit Binder\obj\Debug\net7.0-windows\Habit Binder.csproj.CoreCompileInputs.cache
+A:\Programming\HabitBinderMVVM\Habit Binder\obj\Debug\net7.0-windows\Habit Binder.csproj.Fody.CopyLocal.cache
+A:\Programming\HabitBinderMVVM\Habit Binder\obj\Debug\net7.0-windows\Habit Binder.csproj.Fody.RuntimeCopyLocal.cache
+A:\Programming\HabitBinderMVVM\Habit Binder\obj\Debug\net7.0-windows\Habit Binder.dll
+A:\Programming\HabitBinderMVVM\Habit Binder\obj\Debug\net7.0-windows\refint\Habit Binder.dll
+A:\Programming\HabitBinderMVVM\Habit Binder\obj\Debug\net7.0-windows\Habit Binder.pdb
+A:\Programming\HabitBinderMVVM\Habit Binder\obj\Debug\net7.0-windows\Habit Binder.genruntimeconfig.cache
+A:\Programming\HabitBinderMVVM\Habit Binder\obj\Debug\net7.0-windows\ref\Habit Binder.dll

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Habit_Binder.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,6 +24,7 @@ namespace Habit_Binder
         public MainWindow()
         {
             InitializeComponent();
+            this.DataContext = new TwoMinuteRuleViewModel("Test Description", 2);
         }
     }
 }

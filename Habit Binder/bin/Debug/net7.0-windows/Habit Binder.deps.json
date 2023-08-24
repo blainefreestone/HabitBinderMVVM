@@ -6,21 +6,28 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
+      "Habit Binder/1.0.0": {
+        "dependencies": {
+          "PropertyChanged.Fody": "4.1.0"
+        },
+        "runtime": {
+          "Habit Binder.dll": {}
+        }
+      },
       "Fody/6.6.4": {},
       "PropertyChanged.Fody/4.1.0": {
         "dependencies": {
           "Fody": "6.6.4"
-        },
-        "runtime": {
-          "lib/netstandard2.1/PropertyChanged.dll": {
-            "assemblyVersion": "4.1.0.0",
-            "fileVersion": "4.1.0.0"
-          }
         }
       }
     }
   },
   "libraries": {
+    "Habit Binder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Fody/6.6.4": {
       "type": "package",
       "serviceable": true,
