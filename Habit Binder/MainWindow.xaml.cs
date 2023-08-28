@@ -24,7 +24,8 @@ namespace Habit_Binder
         public MainWindow()
         {
             InitializeComponent();
-            this.DataContext = new TwoMinuteRuleViewModel("Test Description", 2);
+            
+            this.DataContext = new HabitManagerViewModel();
         }
     }
 }

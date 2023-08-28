@@ -6,11 +6,18 @@
         xmlns:local="clr-namespace:Habit_Binder"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+
+    <StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <TextBox Width="100"/>
+            <TextBox Width="50"/>
+            <Button x:Name="AddButton" Content="Add" Command="{Binding AddTwoMinuteRuleCommand}"/>
+        </StackPanel>
+
         <StackPanel Orientation="Horizontal">
             <TextBlock Text="{Binding RuleDescription}"/>
             <TextBlock Text="{Binding AddedTimeInMinutes}"/>
         </StackPanel>
-    </Grid>
+    </StackPanel>
 
 </Window>
